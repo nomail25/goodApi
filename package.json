@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nomail25/goodApi/issues"
   },
-  "homepage": "https://github.com/nomail25/goodApi#readme"
+  "homepage": "https://github.com/nomail25/goodApi#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
